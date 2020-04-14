@@ -1,3 +1,4 @@
+# This function is case converter
 def case_converter(s):
     newlist = []
     for i in range(len(s)):
